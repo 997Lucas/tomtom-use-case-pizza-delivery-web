@@ -1,5 +1,5 @@
 var map = tomtom.L.map('map', {
-    key: '<your-api-key-goes-here>',
+    key: 'JVz6VepLC5Hbn5pai6RxAO9iRwcj2U4S',
     center: [52.37187, 4.89218],
     basePath: '/sdk',
     source: 'vector',
